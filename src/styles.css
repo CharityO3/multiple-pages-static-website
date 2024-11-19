@@ -16,3 +16,8 @@ img{
 .container{
   margin-top: 50px;
 }
+
+.navigation-links a{
+  color: green;
+  font-weight: 700;
+}
