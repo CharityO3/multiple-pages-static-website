@@ -1,23 +1,25 @@
 body{
-  background-color: #F7E49B;
+  background-color: #f8e8a6;
+
 }
 
-h1,p{
+h1,p,footer{
   text-align: center;
 }
 
 img{
   
   height: 80%; 
-  width: 50%;
+  width: 70%;
   border-radius: 10px;
+  display: block;
+  margin: 30px auto;
   
 }
-.container{
-  margin-top: 50px;
-}
 
-.navigation-links a{
+
+footer a{
   color: green;
-  font-weight: 700;
+  margin: 20px;
+
 }
